@@ -1,0 +1,11 @@
+package EjerciciosTema3;
+
+public class ejerciciosTema3 {
+    public static void main (String[] args) {
+        String[] productos = {"silla", "mesa", "lampara"};
+
+        for (String producto : productos){
+            System.out.println(producto);
+        }
+    }
+}
